@@ -1,9 +1,9 @@
-    Titulo1{
+    h1{
     color:aquamarine;
     text-align: center;
     background-color: black;
   }
-  Texto1{
+  p1{
       font-family: 'Times New Roman', Times, serif;
       font-size: 15pt;
       text-align: justify;
