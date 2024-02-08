@@ -9,3 +9,16 @@ texto{
       font-size:15pt;
       text-align:justify;
 }
+
+
+titulo2{
+    color:rgb(127, 138, 255);
+    text-align:right;
+    background-color:rgb(206, 167, 11);
+}
+
+texto2{
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      font-size:20pt;
+      text-align:left;
+}
