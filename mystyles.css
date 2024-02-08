@@ -1,10 +1,11 @@
-h1{
+titulo{
     color:aquamarine;
     text-align:center;
     background-color:black;
 }
-p{
-      font-family: 'Times New Roman', Times, serif;
+
+texto{
+      font-family:'Times New Roman', Times, serif;
       font-size:15pt;
       text-align:justify;
 }
