@@ -22,3 +22,16 @@ texto2{
       font-size:20pt;
       text-align:left;
 }
+
+
+titulo3{
+    color:rgb(202, 27, 27);
+    text-align:start
+    background-color:rgb(81, 17, 100);
+}
+
+texto3{
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+      font-size:28pt;
+      text-align:right;
+}
