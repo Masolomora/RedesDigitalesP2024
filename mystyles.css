@@ -6,7 +6,7 @@ titulo{
 
 texto{
       font-family:'Times New Roman', Times, serif;
-      font-size:100%;
+      font-size:large;
       text-align:justify;
 }
 
@@ -19,7 +19,7 @@ titulo2{
 
 texto2{
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      font-size:90%;
+      font-size:medium;
       text-align:left;
 }
 
@@ -27,12 +27,12 @@ texto2{
 titulo3{
     color:rgb(202, 27, 27);
     text-align:start;
-    background-color:blueviolet
+    background-color:blueviolet;
 }
 
 texto3{
       font-family:'Times New Roman', serif;
-      font-size:80%;
+      font-size:small;
       text-align:right;
 }
 
@@ -40,7 +40,7 @@ texto3{
 titulo4{
     color:rgb(27, 202, 187);
     text-align:start;
-    background-color:rgb(226, 180, 43)
+    background-color:rgb(226, 180, 43);
 }
 
 texto4{
@@ -52,7 +52,7 @@ texto4{
 titulo5{
     color:rgb(50, 27, 202);
     text-align:center;
-    background-color:rgb(43, 226, 49)
+    background-color:rgb(43, 226, 49);
 }
 
 texto5{
@@ -91,7 +91,7 @@ texto7{
 titulo8{
     color:rgb(202, 27, 27);
     text-align:start;
-    background-color:blueviolet
+    background-color:blueviolet;
 }
 
 texto8{
@@ -104,7 +104,7 @@ texto8{
 titulo9{
     text-align:start;
     text-align: center;
-    background-color:rgb(226, 180, 43)
+    background-color:rgb(226, 180, 43);
 }
 
 texto9{
@@ -116,11 +116,11 @@ texto9{
 titulo10{
     color:rgb(50, 27, 202);
     text-align:center;
-    background-color:rgb(43, 226, 49)
+    background-color:rgb(43, 226, 49);
 }
 
 texto10{
-      font-family:Arial, Helvetica, sans-serif
+      font-family:Arial, Helvetica, sans-serif;
       font-size:10%;
       text-align:center;
 }
